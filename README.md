@@ -2,7 +2,6 @@
 - 👀 I’m interested in data sciences
 - 🌱 I’m currently learning python and sql
 - 💞️ I’m looking to collaborate on any machine learning project
-- 📫 How to reach me ...
 
 <!---
 rita2002-max/rita2002-max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
