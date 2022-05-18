@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @rita2002-max
+Data Visualization Sample Projects ✨
 
+This is a repositery for different projects demonstrating the basics of python development for different data vizualisation procedures.
 
-rita2002-max/rita2002-max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-This is a covid19 visualisation project that is made of different plots of the recent covid 19 cases in the world.
+Tools Used
 
-It is made in Python language(using JupyterNotebooks)
+The main tool used for the build up of these projects is the python3 IDE Anaconda(Jupyter Notebook).
+
 
